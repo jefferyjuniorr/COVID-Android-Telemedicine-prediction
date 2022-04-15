@@ -6,4 +6,8 @@ It's an android application for patients who have COVID to monitor their physiol
 
 
 ## Functions
-1. 
+1. A wearable device streaming application
+2. Remote pulmonary rehabilitation and health-monitoring system for doc.
+3. Physiological data dashboard
+4. Online prediction AECOPD
+5. Clinical questionnaires to fiil out for doctors to know patients well and for prediction model training.
